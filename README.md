@@ -14,10 +14,11 @@ This project delivers a **comprehensive loan performance dashboard** that helps 
 
 ### **Dashboards:**  
 
-✅ **Summary Dashboard** – Provides key KPIs, including total loan applications, funded amounts, received payments, interest rates, and debt-to-income ratios. It categorizes loans into **Good (Fully Paid/Current)** and **Bad (Charged Off)** to assess risk.  
+#### ✅ **Summary Dashboard** – Provides key KPIs, including total loan applications, funded amounts, received payments, interest rates, and debt-to-income ratios. It categorizes loans into **Good (Fully Paid/Current)** and **Bad (Charged Off)** to assess risk.  
 
-✅ **Overview Dashboard** – Uses **line charts, maps, bar charts, treemaps, and donut charts** to visualize trends in lending activity, regional distribution, loan terms, employment length, loan purposes, and homeownership impact.  
+<img width="1317" alt="BankLoanDashboardScreenshot" src="https://github.com/user-attachments/assets/34bcb38a-9cef-4803-94fe-7e09887a2cf3" />
 
-✅ **Details Dashboard** – Offers a granular, user-friendly view of borrower profiles, loan statuses, and key performance metrics to support **deep dive analysis and strategic decision-making.**  
 
-This project leverages **data analytics and visualization** to drive **smarter lending decisions, reduce risk, and improve loan portfolio management**—key priorities for data analysts in the finance sector.
+#### ✅ **Overview Dashboard** – Uses **line charts, maps, bar charts, treemaps, and donut charts** to visualize trends in lending activity, regional distribution, loan terms, employment length, loan purposes, and homeownership impact.  
+
+<img width="1317" alt="BankLoanDashboardScreenshot2" src="https://github.com/user-attachments/assets/b627d534-7374-486a-a0b0-9a2cb6e0264a" />
